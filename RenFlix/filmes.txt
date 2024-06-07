@@ -1,0 +1,1 @@
+nome= Blade Runner 2049, anoDeLancamento= 2017, duração em min: 16

@@ -1,0 +1,18 @@
+[
+  {
+    "Nome": "Blade Runner",
+    "AnoDeLancamento": 1982,
+    "IncluidoNoPlano": false,
+    "SomaDasAvaliacoes": 0.0,
+    "TotalDeAvaliacao": 0,
+    "DuracaoEmMinutos": 11
+  },
+  {
+    "Nome": "Blade Runner 2049",
+    "AnoDeLancamento": 2017,
+    "IncluidoNoPlano": false,
+    "SomaDasAvaliacoes": 0.0,
+    "TotalDeAvaliacao": 0,
+    "DuracaoEmMinutos": 16
+  }
+]
